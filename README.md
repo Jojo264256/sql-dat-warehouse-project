@@ -34,3 +34,35 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 ## About Me
+## 👋 Hi, I'm a Statistics Student!
+
+🎓 I'm an undergraduate Statistics student at **Begum Rokeya University, Rangpur (BRUR), Bangladesh**.
+
+📊 I'm passionate about **Statistics, Data Science, Machine Learning, and Artificial Intelligence (AI)**. I enjoy exploring data, applying statistical methods, and developing my programming skills to solve real-world problems.
+
+### 🔍 Interests
+
+* 📈 Statistical Analysis & Inference
+* 📊 Data Analytics & Visualization
+* 🤖 Machine Learning & Artificial Intelligence
+* 🔬 Statistical Research & Data-Driven Decision Making
+
+### 🛠️ Skills & Tools
+
+* **Programming:** R, C
+* **Data Analysis:** Microsoft Excel, SPSS, STATA
+* **Documentation:** Microsoft Word
+* **Currently Learning:** Python, SQL, Pandas, NumPy, Power BI & Machine Learning
+
+### 🎯 Goals
+
+* Build practical data analysis and statistical research projects.
+* Strengthen my programming and analytical skills.
+* Explore the intersection of Statistics, Machine Learning, and AI.
+* Contribute to open-source projects and collaborate with researchers.
+
+### 📂 What You'll Find Here
+
+My repositories will include statistical analysis, R programming, data visualization, statistical simulations, data analysis projects, and machine learning experiments.
+
+**💡 Turning data into insights through Statistics, Programming, and Research.**
